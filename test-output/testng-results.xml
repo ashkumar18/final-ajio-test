@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-14T11:51:45 IST" name="Default suite" finished-at="2023-09-14T11:53:02 IST" duration-ms="77036">
+    <groups>
+    </groups>
+    <test started-at="2023-09-14T11:51:45 IST" name="Default test" finished-at="2023-09-14T11:53:02 IST" duration-ms="77036">
+      <class name="com.amdocs.ajio.testCases.indexPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.amdocs.ajio.testCases.indexPageTest@10e92f8f]" started-at="2023-09-14T11:51:45 IST" name="setup" finished-at="2023-09-14T11:51:56 IST" duration-ms="10846" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest()[pri:0, instance:com.amdocs.ajio.testCases.indexPageTest@10e92f8f]" started-at="2023-09-14T11:51:56 IST" name="loginTest" finished-at="2023-09-14T11:53:02 IST" duration-ms="66166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- com.amdocs.ajio.testCases.indexPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
